@@ -2,10 +2,10 @@ package basic;
 
 public class Book{
 
-  String title;
-  String author;
-  int year;
-  boolean available;
+  private String title;
+  private String author;
+  private int year;
+  private boolean available;
 
   public Book(String title,String author,int year,boolean available){
     if(!(year > 0 && year < 2020)){
