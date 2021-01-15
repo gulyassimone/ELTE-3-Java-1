@@ -1,0 +1,5 @@
+C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Java-1\4_ora\circles_from_array_orig\Circles.java
+C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Java-1\4_ora\circles_from_array_orig\hu\elte\geometry\Circle.java
+C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Java-1\4_ora\circles_from_array_orig\hu\elte\geometry\Point.java
+C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Java-1\4_ora\circles_from_array_orig\hu\elte\geometry\Rectangle.java
+C:\Users\gulya\OneDrive\Dokumentumok\ELTE-3-Java-1\4_ora\circles_from_array_orig\hu\elte\image\Canvas.java
