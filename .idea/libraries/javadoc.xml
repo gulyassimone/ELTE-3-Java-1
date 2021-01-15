@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/5_hazi_feladat_vector/hu/elte/math/javadoc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
